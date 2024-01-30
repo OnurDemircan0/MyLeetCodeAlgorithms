@@ -5,13 +5,15 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{B13251BD-231B-4174-B8F8-60F887CDF268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{7184EAB6-B7B8-4CB7-835A-B14F4A09E70B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{7184EAB6-B7B8-4CB7-835A-B14F4A09E70B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{DA6C6B6A-3CE4-4DD3-8003-F917F6DD174B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{DA6C6B6A-3CE4-4DD3-8003-F917F6DD174B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{8F702F59-0FBE-4BA6-9190-18A2A97BD9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{8F702F59-0FBE-4BA6-9190-18A2A97BD9B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{47D37594-4309-49ED-93A4-9164E8D862EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{47D37594-4309-49ED-93A4-9164E8D862EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{47D37594-4309-49ED-93A4-9164E8D862EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D37594-4309-49ED-93A4-9164E8D862EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D37594-4309-49ED-93A4-9164E8D862EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

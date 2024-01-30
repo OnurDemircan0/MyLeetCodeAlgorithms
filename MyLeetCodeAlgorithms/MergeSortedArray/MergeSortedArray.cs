@@ -13,7 +13,7 @@ nums1.length == m + n
 nums2.length == n
 0 <= m, n <= 200
 1 <= m + n <= 200
--109 <= nums1[i], nums2[j] <= 109
+-10^9 <= nums1[i], nums2[j] <= 10^9
 */
 
 int[] nums1 = { 4, 5, 6, 0, 0, 0 };

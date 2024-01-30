@@ -8,8 +8,8 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 /* Constraints:
 
 n == nums.length
-1 <= n <= 5 * 104
--109 <= nums[i] <= 109
+1 <= n <= 5 * 10^4
+-10^9 <= nums[i] <= 10^9
 */
 
 int[] nums = { -1, -1, 2, 3, 3, 3, 3, 3, 4 };

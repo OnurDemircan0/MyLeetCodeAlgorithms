@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{67E5CEEA-4513-4564-A045-1D467DEB652D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{67E5CEEA-4513-4564-A045-1D467DEB652D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67E5CEEA-4513-4564-A045-1D467DEB652D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67E5CEEA-4513-4564-A045-1D467DEB652D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

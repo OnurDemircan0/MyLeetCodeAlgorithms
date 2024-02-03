@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInAString", "ReverseWordsInAString\ReverseWordsInAString.csproj", "{E24F119F-247C-48D2-8149-B43461CF12AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{4AF50924-9B9E-4743-AC58-CC5B03968E87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E24F119F-247C-48D2-8149-B43461CF12AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E24F119F-247C-48D2-8149-B43461CF12AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E24F119F-247C-48D2-8149-B43461CF12AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF50924-9B9E-4743-AC58-CC5B03968E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF50924-9B9E-4743-AC58-CC5B03968E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF50924-9B9E-4743-AC58-CC5B03968E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF50924-9B9E-4743-AC58-CC5B03968E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

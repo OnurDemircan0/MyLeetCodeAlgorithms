@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIndexOfTheFirstOccur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{8E07D0F9-68DA-4957-8087-47DE7ED4D789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2148D657-D5C9-4292-A1A6-6B6C54913558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8E07D0F9-68DA-4957-8087-47DE7ED4D789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E07D0F9-68DA-4957-8087-47DE7ED4D789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E07D0F9-68DA-4957-8087-47DE7ED4D789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2148D657-D5C9-4292-A1A6-6B6C54913558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2148D657-D5C9-4292-A1A6-6B6C54913558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2148D657-D5C9-4292-A1A6-6B6C54913558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2148D657-D5C9-4292-A1A6-6B6C54913558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

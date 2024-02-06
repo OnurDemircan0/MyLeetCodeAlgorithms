@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidSudoku", "ValidSudoku\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock2", "BestTimeToBuyAndSellStock2\BestTimeToBuyAndSellStock2.csproj", "{FA58B317-9733-471D-A0C0-185AFDFAD449}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA58B317-9733-471D-A0C0-185AFDFAD449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA58B317-9733-471D-A0C0-185AFDFAD449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA58B317-9733-471D-A0C0-185AFDFAD449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA58B317-9733-471D-A0C0-185AFDFAD449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

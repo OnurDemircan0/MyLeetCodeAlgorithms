@@ -1,4 +1,6 @@
-﻿/* INSTRUCTIONS
+﻿//*****THIS CODE DOESN'T WORK HERE. IT'S FOR COPY PASTE TO THE "Insert Delete GetRandom O(1)" ALGORITHM IN LEETCODE WEBSITE*****
+
+/* INSTRUCTIONS
 
 Implement the RandomizedSet class:
 
@@ -24,6 +26,7 @@ There will be at least one element in the data structure when getRandom is calle
  * int param_3 = obj.GetRandom();
  */
 
+//*****THIS CODE DOESN'T WORK HERE. IT'S FOR COPY PASTE TO THE "Insert Delete GetRandom O(1)" ALGORITHM IN LEETCODE WEBSITE*****
 public class RandomizedSet
 {
     List<int> nums = new List<int>();

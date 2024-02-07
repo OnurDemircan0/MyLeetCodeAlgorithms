@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "JumpGame\JumpGame.csproj", "{941DA11F-919F-4B46-A239-354C1DF0B342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame2", "JumpGame2\JumpGame2.csproj", "{7F84680D-3244-4145-969A-BF94D58FFDE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{941DA11F-919F-4B46-A239-354C1DF0B342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941DA11F-919F-4B46-A239-354C1DF0B342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941DA11F-919F-4B46-A239-354C1DF0B342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F84680D-3244-4145-969A-BF94D58FFDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F84680D-3244-4145-969A-BF94D58FFDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F84680D-3244-4145-969A-BF94D58FFDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F84680D-3244-4145-969A-BF94D58FFDE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

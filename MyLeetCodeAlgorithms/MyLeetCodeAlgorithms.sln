@@ -13,39 +13,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{47D37594-4309-49ED-93A4-9164E8D862EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{83A9B4C4-D72E-487A-9DC9-EEB2B4701D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{83A9B4C4-D72E-487A-9DC9-EEB2B4701D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{6CA5D87B-900A-4C24-B714-088EC7AEC6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{6CA5D87B-900A-4C24-B714-088EC7AEC6C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{67E5CEEA-4513-4564-A045-1D467DEB652D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{67E5CEEA-4513-4564-A045-1D467DEB652D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInAString", "ReverseWordsInAString\ReverseWordsInAString.csproj", "{E24F119F-247C-48D2-8149-B43461CF12AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInAString", "ReverseWordsInAString\ReverseWordsInAString.csproj", "{E24F119F-247C-48D2-8149-B43461CF12AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{4AF50924-9B9E-4743-AC58-CC5B03968E87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{4AF50924-9B9E-4743-AC58-CC5B03968E87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{8E07D0F9-68DA-4957-8087-47DE7ED4D789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{8E07D0F9-68DA-4957-8087-47DE7ED4D789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2148D657-D5C9-4292-A1A6-6B6C54913558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2148D657-D5C9-4292-A1A6-6B6C54913558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\WordPattern.csproj", "{45C2FD69-6789-435F-9877-57C7C74AAC83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern", "WordPattern\WordPattern.csproj", "{45C2FD69-6789-435F-9877-57C7C74AAC83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidSudoku", "ValidSudoku\ValidSudoku.csproj", "{8A0DBE0F-B9DC-4C4A-9C4D-E2B0A710EDD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidSudoku", "ValidSudoku\ValidSudoku.csproj", "{8A0DBE0F-B9DC-4C4A-9C4D-E2B0A710EDD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock2", "BestTimeToBuyAndSellStock2\BestTimeToBuyAndSellStock2.csproj", "{FA58B317-9733-471D-A0C0-185AFDFAD449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock2", "BestTimeToBuyAndSellStock2\BestTimeToBuyAndSellStock2.csproj", "{FA58B317-9733-471D-A0C0-185AFDFAD449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "JumpGame\JumpGame.csproj", "{941DA11F-919F-4B46-A239-354C1DF0B342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame", "JumpGame\JumpGame.csproj", "{941DA11F-919F-4B46-A239-354C1DF0B342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame2", "JumpGame2\JumpGame2.csproj", "{7F84680D-3244-4145-969A-BF94D58FFDE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame2", "JumpGame2\JumpGame2.csproj", "{7F84680D-3244-4145-969A-BF94D58FFDE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_Index", "H_Index\H_Index.csproj", "{8FC53B71-DF56-451A-BAEB-3AFF591A8D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H_Index", "H_Index\H_Index.csproj", "{8FC53B71-DF56-451A-BAEB-3AFF591A8D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertDeleteGetRandom", "InsertDeleteGetRandom\InsertDeleteGetRandom.csproj", "{0D97F84D-17C7-42AF-A3EB-78252032BB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertDeleteGetRandom", "InsertDeleteGetRandom\InsertDeleteGetRandom.csproj", "{0D97F84D-17C7-42AF-A3EB-78252032BB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{0D97F84D-17C7-42AF-A3EB-78252032BB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D97F84D-17C7-42AF-A3EB-78252032BB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D97F84D-17C7-42AF-A3EB-78252032BB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

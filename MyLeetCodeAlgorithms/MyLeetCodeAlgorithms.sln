@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H_Index", "H_Index\H_Index.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertDeleteGetRandom", "InsertDeleteGetRandom\InsertDeleteGetRandom.csproj", "{0D97F84D-17C7-42AF-A3EB-78252032BB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "GasStation\GasStation.csproj", "{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GasStation", "GasStation\GasStation.csproj", "{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{A3D64BD8-C084-435E-9BFD-D413D872AEA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D64BD8-C084-435E-9BFD-D413D872AEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D64BD8-C084-435E-9BFD-D413D872AEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D64BD8-C084-435E-9BFD-D413D872AEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D64BD8-C084-435E-9BFD-D413D872AEA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

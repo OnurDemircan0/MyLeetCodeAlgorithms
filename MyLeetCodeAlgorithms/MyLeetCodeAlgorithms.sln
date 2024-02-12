@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{1369C920-8DE8-4F73-ACAF-C655E917CC03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow(x,n)", "Pow(x,n)\Pow(x,n).csproj", "{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{1369C920-8DE8-4F73-ACAF-C655E917CC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1369C920-8DE8-4F73-ACAF-C655E917CC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1369C920-8DE8-4F73-ACAF-C655E917CC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

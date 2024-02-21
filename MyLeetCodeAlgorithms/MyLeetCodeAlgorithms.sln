@@ -51,17 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GasStation", "GasStation\GasStation.csproj", "{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{A3D64BD8-C084-435E-9BFD-D413D872AEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{A3D64BD8-C084-435E-9BFD-D413D872AEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{1369C920-8DE8-4F73-ACAF-C655E917CC03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{1369C920-8DE8-4F73-ACAF-C655E917CC03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow(x,n)", "Pow(x,n)\Pow(x,n).csproj", "{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pow(x,n)", "Pow(x,n)\Pow(x,n).csproj", "{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{7926ED69-DD8D-4944-880D-AA156AE69A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{7926ED69-DD8D-4944-880D-AA156AE69A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchA2DMatrix", "SearchA2DMatrix\SearchA2DMatrix.csproj", "{3DC3B154-1AAB-4567-B603-4B992EA08AB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC3B154-1AAB-4567-B603-4B992EA08AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC3B154-1AAB-4567-B603-4B992EA08AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC3B154-1AAB-4567-B603-4B992EA08AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC3B154-1AAB-4567-B603-4B992EA08AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

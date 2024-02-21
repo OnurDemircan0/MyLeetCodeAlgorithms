@@ -3,71 +3,71 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{B13251BD-231B-4174-B8F8-60F887CDF268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88_MergeSortedArray", "MergeSortedArray\88_MergeSortedArray.csproj", "{B13251BD-231B-4174-B8F8-60F887CDF268}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{7184EAB6-B7B8-4CB7-835A-B14F4A09E70B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27_RemoveElement", "RemoveElement\27_RemoveElement.csproj", "{7184EAB6-B7B8-4CB7-835A-B14F4A09E70B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{DA6C6B6A-3CE4-4DD3-8003-F917F6DD174B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\26_RemoveDuplicatesFromSortedArray.csproj", "{DA6C6B6A-3CE4-4DD3-8003-F917F6DD174B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{8F702F59-0FBE-4BA6-9190-18A2A97BD9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80_RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\80_RemoveDuplicatesFromSortedArray2.csproj", "{8F702F59-0FBE-4BA6-9190-18A2A97BD9B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{47D37594-4309-49ED-93A4-9164E8D862EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169_MajorityElement", "MajorityElement\169_MajorityElement.csproj", "{47D37594-4309-49ED-93A4-9164E8D862EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "189_RotateArray", "RotateArray\189_RotateArray.csproj", "{1D3FCD52-DBBB-4D6A-A2BE-E311546CA420}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{83A9B4C4-D72E-487A-9DC9-EEB2B4701D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_RomanToInteger", "RomanToInteger\13_RomanToInteger.csproj", "{83A9B4C4-D72E-487A-9DC9-EEB2B4701D05}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{6CA5D87B-900A-4C24-B714-088EC7AEC6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_IntegerToRoman", "IntegerToRoman\12_IntegerToRoman.csproj", "{6CA5D87B-900A-4C24-B714-088EC7AEC6C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{67E5CEEA-4513-4564-A045-1D467DEB652D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58_LengthOfLastWord", "LengthOfLastWord\58_LengthOfLastWord.csproj", "{67E5CEEA-4513-4564-A045-1D467DEB652D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_LongestCommonPrefix", "LongestCommonPrefix\14_LongestCommonPrefix.csproj", "{38E33AEE-2A1D-448D-A86A-91BD6FF6FFBC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInAString", "ReverseWordsInAString\ReverseWordsInAString.csproj", "{E24F119F-247C-48D2-8149-B43461CF12AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "151_ReverseWordsInAString", "ReverseWordsInAString\151_ReverseWordsInAString.csproj", "{E24F119F-247C-48D2-8149-B43461CF12AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{4AF50924-9B9E-4743-AC58-CC5B03968E87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28_FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\28_FindTheIndexOfTheFirstOccurenceInAString.csproj", "{4AF50924-9B9E-4743-AC58-CC5B03968E87}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{8E07D0F9-68DA-4957-8087-47DE7ED4D789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "383_RansomNote", "RansomNote\383_RansomNote.csproj", "{8E07D0F9-68DA-4957-8087-47DE7ED4D789}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2148D657-D5C9-4292-A1A6-6B6C54913558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "205_IsomorphicStrings", "IsomorphicStrings\205_IsomorphicStrings.csproj", "{2148D657-D5C9-4292-A1A6-6B6C54913558}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern", "WordPattern\WordPattern.csproj", "{45C2FD69-6789-435F-9877-57C7C74AAC83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "290_WordPattern", "WordPattern\290_WordPattern.csproj", "{45C2FD69-6789-435F-9877-57C7C74AAC83}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidSudoku", "ValidSudoku\ValidSudoku.csproj", "{8A0DBE0F-B9DC-4C4A-9C4D-E2B0A710EDD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36_ValidSudoku", "ValidSudoku\36_ValidSudoku.csproj", "{8A0DBE0F-B9DC-4C4A-9C4D-E2B0A710EDD6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "121_BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\121_BestTimeToBuyAndSellStock.csproj", "{EE1A3DB0-B61C-43D7-803B-BAE58DCEA87B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock2", "BestTimeToBuyAndSellStock2\BestTimeToBuyAndSellStock2.csproj", "{FA58B317-9733-471D-A0C0-185AFDFAD449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "122_BestTimeToBuyAndSellStock2", "BestTimeToBuyAndSellStock2\122_BestTimeToBuyAndSellStock2.csproj", "{FA58B317-9733-471D-A0C0-185AFDFAD449}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame", "JumpGame\JumpGame.csproj", "{941DA11F-919F-4B46-A239-354C1DF0B342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "55_JumpGame", "JumpGame\55_JumpGame.csproj", "{941DA11F-919F-4B46-A239-354C1DF0B342}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame2", "JumpGame2\JumpGame2.csproj", "{7F84680D-3244-4145-969A-BF94D58FFDE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45_JumpGame2", "JumpGame2\45_JumpGame2.csproj", "{7F84680D-3244-4145-969A-BF94D58FFDE9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H_Index", "H_Index\H_Index.csproj", "{8FC53B71-DF56-451A-BAEB-3AFF591A8D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "274_H_Index", "H_Index\274_H_Index.csproj", "{8FC53B71-DF56-451A-BAEB-3AFF591A8D46}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertDeleteGetRandom", "InsertDeleteGetRandom\InsertDeleteGetRandom.csproj", "{0D97F84D-17C7-42AF-A3EB-78252032BB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "380_InsertDeleteGetRandom", "InsertDeleteGetRandom\380_InsertDeleteGetRandom.csproj", "{0D97F84D-17C7-42AF-A3EB-78252032BB3B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "238_ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\238_ProductOfArrayExceptSelf.csproj", "{DAE40857-F178-4B7C-9801-3E4A7CBFBB4D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GasStation", "GasStation\GasStation.csproj", "{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "134_GasStation", "GasStation\134_GasStation.csproj", "{2F96A1C7-5D8F-4502-BF78-B07CE8BC0E18}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{A3D64BD8-C084-435E-9BFD-D413D872AEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_PalindromeNumber", "PalindromeNumber\9_PalindromeNumber.csproj", "{A3D64BD8-C084-435E-9BFD-D413D872AEA1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{1369C920-8DE8-4F73-ACAF-C655E917CC03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69_Sqrt(x)", "Sqrt(x)\69_Sqrt(x).csproj", "{1369C920-8DE8-4F73-ACAF-C655E917CC03}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pow(x,n)", "Pow(x,n)\Pow(x,n).csproj", "{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50_Pow(x,n)", "Pow(x,n)\50_Pow(x,n).csproj", "{8FBF2EDE-C67C-4497-AF57-6F9A311FD605}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{7926ED69-DD8D-4944-880D-AA156AE69A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67_AddBinary", "AddBinary\67_AddBinary.csproj", "{7926ED69-DD8D-4944-880D-AA156AE69A7C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70_ClimbingStairs", "ClimbingStairs\70_ClimbingStairs.csproj", "{9C1168B0-EB71-4FCB-BE0F-A223C51C5D96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35_SearchInsertPosition", "SearchInsertPosition\35_SearchInsertPosition.csproj", "{6D194C1B-5B60-44B2-ADDB-DDA4D6C1AB5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchA2DMatrix", "SearchA2DMatrix\SearchA2DMatrix.csproj", "{3DC3B154-1AAB-4567-B603-4B992EA08AB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74_SearchA2DMatrix", "SearchA2DMatrix\74_SearchA2DMatrix.csproj", "{3DC3B154-1AAB-4567-B603-4B992EA08AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{FB54FF00-A2C3-46DF-8322-16FD498DB1D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66_PlusOne", "PlusOne\66_PlusOne.csproj", "{FB54FF00-A2C3-46DF-8322-16FD498DB1D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDifferenceByRemappingADigit", "MaximumDifferenceByRemappingADigit\MaximumDifferenceByRemappingADigit.csproj", "{742BA08E-40E8-4ACD-B804-809FE6C1C34A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2566_MaximumDifferenceByRemappingADigit", "MaximumDifferenceByRemappingADigit\2566_MaximumDifferenceByRemappingADigit.csproj", "{742BA08E-40E8-4ACD-B804-809FE6C1C34A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
